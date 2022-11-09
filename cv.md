@@ -25,6 +25,8 @@ Freelance
 ## Education
 Vitebsk State University
 
-## English
-Pre-intermediate level    
+## Languiges
+   - English: Pre-intermediate   
+   - Polish: Basic
+
     
