@@ -1,0 +1,6 @@
+html {
+    box-sizing: border-box;
+    }
+*, *::befor, *::after {
+    box-sizing: inherit;
+}
